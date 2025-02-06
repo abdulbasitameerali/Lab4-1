@@ -1,3 +1,7 @@
 
 Console.WriteLine("hello g . give us a value ");
 int x = Convert.Toint(Console.ReadLine());
+Console.WriteLine("Give two values for substration");
+int y = Convert.Toint(Console.ReadLine());
+int z = Convert.Toint(Console.ReadLine());
+int a = y - z;
